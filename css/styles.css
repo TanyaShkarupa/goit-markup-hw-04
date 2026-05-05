@@ -406,7 +406,7 @@ body {
   color: #f4f4fd;
 }
 
-.portfolio-item:hover .portfolio-overlay {
+.sect-port:hover .portfolio-overlay {
   transform: translateY(0);
 }
 
